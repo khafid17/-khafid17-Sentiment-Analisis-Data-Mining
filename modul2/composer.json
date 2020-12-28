@@ -1,0 +1,14 @@
+{
+    "name": "asus/modul2",
+    "description": "sindhu",
+    "authors": [
+        {
+            "name": "sindhu",
+            "email": "sindhuwidayat@std.unissula.ac.id"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.8.0",
+        "nesbot/carbon": "^2.20"
+    }
+}
